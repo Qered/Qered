@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Qered
-- 👀 I’m interested in Gamedev.
-- 🌱 I’m currently learning C# programming language.
+- 👀 I’m interested in creating telegram-bot.
+- 🌱 I’m currently learning Python programming language.
 - 📫 How to reach me: In telegram by number 89183533189.
 
 <!---
